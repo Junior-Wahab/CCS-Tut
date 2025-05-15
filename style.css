@@ -1,10 +1,14 @@
 /* Font weight */
 h1 {
-  font-size: 2rem;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 900;
 }
 
 p {
   font-size: 20px;
   font-weight: 500;
+}
+
+/* Text decoration */
+h3 {
+  text-decoration: underline red wavy;
 }
