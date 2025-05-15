@@ -1,0 +1,10 @@
+/* Font weight */
+h1 {
+  font-size: 2rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+  font-size: 20px;
+  font-weight: 500;
+}
