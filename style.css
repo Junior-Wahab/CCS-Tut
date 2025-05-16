@@ -11,4 +11,20 @@ p {
 /* Text decoration */
 h3 {
   text-decoration: underline red wavy;
+  font-style: bold;
+}
+
+/* Font style */
+.fontStyle {
+  font-style: normal;
+}
+
+/* Text Transform */
+.textTransform {
+  text-transform: uppercase;
+}
+
+/* List style */
+.fruits {
+  list-style: square;
 }
