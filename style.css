@@ -28,3 +28,27 @@ h3 {
 .fruits {
   list-style: square;
 }
+
+/* textAlign */
+.textAlign {
+  text-align: center;
+}
+
+/* Line height */
+h3 .lineHeight {
+  line-height: 3;
+}
+
+p .lineHeight {
+  line-height: 4;
+}
+
+/* Letter spacing */
+.letterSpacing {
+  letter-spacing: 2px;
+}
+
+/* font size */
+h4 {
+  font-size: 1.5rem;
+}
